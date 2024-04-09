@@ -10,6 +10,7 @@ namespace lesson_git8
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hi!");
         }
     }
 }
