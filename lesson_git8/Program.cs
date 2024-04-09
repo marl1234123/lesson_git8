@@ -10,11 +10,12 @@ namespace lesson_git8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hi!");
-            for (int i = 0; i < 5; i++)
+            Console.WriteLine("Hi! Good day!");
+            for (int i = 0; i < 20; i++)
             {
                 Console.WriteLine(i);
             }
+            Console.WriteLine("Good bye");
         }
     }
 }
